@@ -28,19 +28,23 @@ The main goal of this repository is to:
 - anaconda / Spyder IDE
 
 ## 📂 Repository Structure
+
 python-learning/
-├── README.md
-├── 01_basics/
-├── 02_strings/
-├── 03_lists_tuples_sets/
-├── 04_dictionaries/
-├── 05_functions/
-├── 06_generators_and_comprehensions/
-├── 07_matrices/
-├── 08_mini_projects/
-├── 09_practice_sheets/
-├── 10_weekly_tests/
+
+├── README.md  
+├── 01_basics/  
+├── 02_strings/  
+├── 03_lists_tuples_sets/  
+├── 04_dictionaries/  
+├── 05_functions/  
+├── 06_generators_and_comprehensions/  
+├── 07_matrices/  
+├── 08_mini_projects/  
+├── 09_practice_sheets/  
+├── 10_weekly_tests/  
 └── 11_competitive_coding/
+
+---
 
 ## 🚀 How to Run
 1. Install Python 3
