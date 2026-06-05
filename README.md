@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐍 Python Learning Journey
 
 A structured Python learning repository covering fundamentals to competitive coding — built from classroom sessions, practice sheets, weekly tests, and self-study.
@@ -85,10 +86,58 @@ python-learning/
 | 09 | **Practice Sheets** | 50+ problems across all topics |
 | 10 | **Weekly Tests** | Week 1–2 review + 2 timed tests |
 | 11 | **Competitive Coding** | HackerRank, LeetCode-style, valley/mountain counting, itertools |
+=======
+# Python Practice & Projects
+
+Welcome to my Python repository!  
+This repository contains my Python learning journey, including practice programs, problem-solving exercises, and mini projects built while exploring different concepts in Python.
+
+## 📚 Topics Covered
+- Python Basics
+- Variables & Data Types
+- Conditional Statements
+- Loops
+- Python data structures in detailed
+- Problem solving on Lists, Dictonary , tuples , sets.
+- Functions
+- File Handling
+- Exception Handling
+- Mini Projects
+
+## 🎯 Purpose
+The main goal of this repository is to:
+- Improve problem-solving skills
+- Build strong programming fundamentals
+- Practice Python consistently
+- Create real-world mini projects
+- Track learning progress
+
+## 🛠️ Technologies Used
+- Python 3
+- anaconda / Spyder IDE
+
+## 📂 Repository Structure
+
+python-learning/
+
+├── README.md  
+├── 01_basics/  
+├── 02_strings/  
+├── 03_lists_tuples_sets/  
+├── 04_dictionaries/  
+├── 05_functions/  
+├── 06_generators_and_comprehensions/  
+├── 07_matrices/  
+├── 08_mini_projects/  
+├── 09_practice_sheets/  
+├── 10_weekly_tests/  
+└── 11_competitive_coding/
+>>>>>>> 150ef3f62b7071c67b46f07457b902248be98ecb
 
 ---
 
 ## 🚀 How to Run
+<<<<<<< HEAD
 
 Each file is self-contained. Run any file directly:
 
@@ -122,3 +171,16 @@ Some files use `input()` — run those interactively in the terminal.
 - Generator code found inside `Advanced_dictionaries_Py.py` was moved to `06_generators_and_comprehensions/`.
 - Valley count and array rotation code from `matrix_in_python.py` was moved to `11_competitive_coding/`.
 - Billing system project from `practiceSheet1.py` was extracted into `08_mini_projects/`.
+=======
+1. Install Python 3
+2. Clone this repository
+3. Run any file using:
+
+python filename.py
+
+## 📈 Learning Journey
+This repository will continue to grow as I learn more advanced Python concepts and build new projects.
+
+---
+⭐ Feel free to explore the repository and follow my coding journey.
+>>>>>>> 150ef3f62b7071c67b46f07457b902248be98ecb
